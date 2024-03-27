@@ -58,3 +58,16 @@ th, td {
     font-size: 14px; 
     color: #999; 
 }
+.chapter-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chapter-img {
+    margin-bottom: 20px;
+}
+
+.chapter-text {
+    text-align: center;
+}
