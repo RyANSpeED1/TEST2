@@ -71,12 +71,8 @@ th, td {
 .chapter-text {
     text-align: center;
 }
-.header {
-    color: red;
-    transition: color 0.3s;
-}
 
-.header:hover {
+.header.milestone:hover {
     color: skyblue;
 }
 .header.milestone h2 {
