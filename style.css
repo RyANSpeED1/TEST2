@@ -72,10 +72,11 @@ th, td {
     text-align: center;
 }
 
-.header.milestone:hover {
-    color: skyblue;
-}
 .header.milestone h2 {
     color: red;
     font-size: 40px;
     font-family: Fantasy, sans-serif; 
+}
+.header h2:hover {
+    color: skyblue;
+}
