@@ -3,24 +3,17 @@ body {
     background-color: #f0f0f0; 
 }
 
-h1.milestone-title, h2 {
-    color: red;
-    font-size: 40px;
-    font-family: Fantasy;
+h1, h2 {
+    color: #6c757d; 
 }
 
 ul {
     list-style-type: none;
 }
 
-li.milestone {
+li {
     margin-bottom: 20px;
     padding: 10px;
-    transition: color 0.5s; 
-}
-
-li.milestone:hover {
-    color: skyblue;
 }
 
 .milestone1 {
