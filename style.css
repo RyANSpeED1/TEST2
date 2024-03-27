@@ -71,11 +71,11 @@ th, td {
 .chapter-text {
     text-align: center;
 }
-.title {
+.h2 {
     color: red;
     transition: color 0.3s;
 }
 
-.title:hover {
+.h2:hover {
     color: skyblue;
 }
