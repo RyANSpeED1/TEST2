@@ -80,3 +80,6 @@ th, td {
 .header h2:hover {
     color: skyblue;
 }
+.header.milestone {
+    text-align: center;
+}
